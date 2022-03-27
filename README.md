@@ -9,7 +9,7 @@
 <body lang=RU>
 
 <p>Шарутина Алла</p>
- <img src="https://github.com/AllaSharutina/Resume/raw/main/%D0%A4%D0%BE%D1%82%D0%BE%20%D0%B4%D0%BB%D1%8F%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.jpg" alt="фото">
+ <img src="https://github.com/AllaSharutina/Resume/raw/main/Foto_Alla_small.jpg" alt="фото">
  
 
 <p>Я решила скорректировать свой карьерный путь. В данный момент обучаюсь новой профессии «Тестировщик-автоматизатор» и параллельно работаю ведущим специалистом в процессинговой компании АО «ТПК»</p>
